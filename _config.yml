@@ -1,16 +1,16 @@
-typography_spectrum: 0.5074994063470513
+typography_spectrum: 0.601672263815999
 color:
-  brandStrength: 0.25232129031792283
-  lightness: 0.4572501378133893
-  saturation: 0.19448166782967746
-  rhythmicContrast: 0.47880086256191134
+  brandStrength: 0.17274345643818378
+  lightness: 0.47828218154609203
+  saturation: 0.28238870948553085
+  rhythmicContrast: 0.42766074021346867
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-layout_spectrum: 0.6193386260420084
+    - '#FFF8E3'
+    - '#CCCC9F'
+    - '#33332D'
+    - '#9FB4CC'
+    - '#DB4105'
+layout_spectrum: 0.27279932517558336
 name: col1
 title: My web site 1
 description: My tagline
